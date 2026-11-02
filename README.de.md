@@ -14,7 +14,7 @@
 ```
 
 **Eine gemeinsame Sicht auf alle Projekte, für dich und deine KI-Agenten.**
-Agenten beantworten Projektfragen mit etwa 35 bis 45 % weniger Tokens und weniger Schritten, bei gleicher Treffsicherheit.
+Agenten beantworten Projektfragen mit etwa 36 bis 47 % weniger Tokens und weniger Schritten, bei gleicher Treffsicherheit.
 
 ```text
   ┌───────────────┐  push, briefing page   ┌──────────────────────────┐  briefing, tasks   ┌──────────────┐

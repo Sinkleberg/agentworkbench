@@ -14,7 +14,7 @@ English · [Deutsch](README.de.md)
 ```
 
 **One shared view of all your projects, for you and your AI agents.**
-Agents answer project questions with about 35 to 45 % fewer tokens and fewer steps, at the same accuracy.
+Agents answer project questions with about 36 to 47 % fewer tokens and fewer steps, at the same accuracy.
 
 ```text
   ┌───────────────┐  push, briefing page   ┌──────────────────────────┐  briefing, tasks   ┌──────────────┐
